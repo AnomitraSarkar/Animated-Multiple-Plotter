@@ -1,0 +1,7 @@
+6,3,100,data.csv
+Roll Rate,25,line,red
+Pitch Rate,25,rough,black
+Yaw Rate,25,dotted,blue
+Roll Angle,50,dotted,green
+Pitch Angle,50,rough,pink
+Yaw Angle,50,smooth,red
